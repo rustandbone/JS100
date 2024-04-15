@@ -5,7 +5,7 @@
 1.  [x] Pixel Art Generator
 2.  [x] Rich Text Editor
 3.  [x] Password Generator
-4.  QR Code Generator
+4.  [x] QR Code Generator
 5.  Detect Device Battery
 6.  XO Game
 7.  Flip a Coin Game
