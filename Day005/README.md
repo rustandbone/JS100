@@ -21,4 +21,4 @@
      - 배터리가 충전 중인 경우, 'Charging...' 상태 메시지와 함께 녹색으로 깜빡이는 전기 아이콘을 표시.
    - 배터리 레벨에 따라 배터리 액체의 높이(`batteryLiquid.style.height`)와 색상(`batteryLiquid.classList`)을 조정하여 시각적으로 현재 배터리 상태를 나타냄.
      - 배터리 레벨이 20% 이하일 경우 빨간색, 40% 이하일 경우 주황색, 80% 이하일 경우 노란색, 그 이상일 경우 녹색으로 표시.
-3. 이벤트 리스너: `batt.addEventListener`를 통해 배터리 충전 상태 변화(`chargingchange`)와 배터리 레벨 변화(`levelchange`) 이벤트에 대한 리스너를 추가합니다. 이 이벤트들이 발생할 때마다 `updateBattery` 함수를 호출하여 UI를 즉시 업데이트합니다.
+3. 이벤트 리스너: `batt.addEventListener`를 통해 배터리 충전 상태 변화(`chargingchange`)와 배터리 레벨 변화(`levelchange`) 이벤트에 대한 리스너를 추가. 이 이벤트들이 발생할 때마다 `updateBattery` 함수를 호출하여 UI를 즉시 업데이트.
