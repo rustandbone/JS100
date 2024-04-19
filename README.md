@@ -8,7 +8,7 @@
 4.  [x] QR Code Generator
 5.  [x] Detect Device Battery
 6.  [x] XO Game
-7.  Flip a Coin Game
+7.  [x] Flip a Coin Game
 8.  Multi Step Form
 9.  Aspect Ratio Calculator
 10. Weather App
