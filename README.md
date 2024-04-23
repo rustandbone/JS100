@@ -11,7 +11,7 @@
 7.  [x] Flip a Coin Game
 8.  [x] Multi Step Form
 9.  [x] Aspect Ratio Calculator
-10. Weather App
+10. [x] Weather App
 11. Movie Guide App
 12. Type Test App
 13. Translator App
