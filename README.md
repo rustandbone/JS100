@@ -13,7 +13,7 @@
 9.  [x] Aspect Ratio Calculator
 10. [x] Weather App
 11. [x] Movie Guide App
-12. Type Test App
+12. [x] Type Test App
 13. Translator App
 14. Crypto Price App
 15. ToDo App
