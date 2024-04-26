@@ -15,7 +15,7 @@
 11. [x] Movie Guide App
 12. [x] Type Test App
 13. [x] Translator App
-14. Crypto Price App
+14. [x] Crypto Price App
 15. ToDo App
 16. Geometric Art Generator
 17. Snake Game
