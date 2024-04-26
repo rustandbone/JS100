@@ -14,7 +14,7 @@
 10. [x] Weather App
 11. [x] Movie Guide App
 12. [x] Type Test App
-13. Translator App
+13. [x] Translator App
 14. Crypto Price App
 15. ToDo App
 16. Geometric Art Generator
