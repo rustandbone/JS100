@@ -18,8 +18,8 @@
 14. [x] Crypto Price App
 15. [x] ToDo App
 16. [x] Geometric Art Generator
-17. Snake Game
-18. Budget App
+17. [x] Snake Game
+18. [x] Budget App
 19. Text To Speech App
 20. QR Code Reader
 21. Spin Wheel App
