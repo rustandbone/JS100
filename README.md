@@ -20,7 +20,7 @@
 16. [x] Geometric Art Generator
 17. [x] Snake Game
 18. [x] Budget App
-19. Text To Speech App
+19. [x] Text To Speech App
 20. QR Code Reader
 21. Spin Wheel App
 22. Gradient Generator
