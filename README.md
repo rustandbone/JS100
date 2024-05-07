@@ -21,7 +21,7 @@
 17. [x] Snake Game
 18. [x] Budget App
 19. [x] Text To Speech App
-20. QR Code Reader
+20. [x] QR Code Reader
 21. Spin Wheel App
 22. Gradient Generator
 23. Guess The Word Game
