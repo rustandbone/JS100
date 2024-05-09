@@ -23,7 +23,7 @@
 19. [x] Text To Speech App
 20. [x] QR Code Reader
 21. [x] Spin Wheel App
-22. Gradient Generator
+22. [x] Gradient Generator
 23. Guess The Word Game
 24. Simon Game
 25. Apex Charts
