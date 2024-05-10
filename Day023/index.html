@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>#23 - Guess The Word Game</title>
+  </head>
+  <body>
+    <section class="wrapper">
+      <h1>Guess Word Game</h1>
+      <div class="content">
+        <input type="text" class="type-input" maxlength="1" />
+        <div class="word"></div>
+        <div class="info">
+          <p class="guess">Guesses : <span></span></p>
+          <p class="wrong">Mistakes : <span></span></p>
+          <p class="hint">Hint : <span></span></p>
+        </div>
+        <div class="buttons">
+          <button class="reset">Reset Game</button>
+          <button class="showhint">Show Hint</button>
+        </div>
+      </div>
+    </section>
+    <script src="words-db.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
