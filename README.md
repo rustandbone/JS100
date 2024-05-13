@@ -25,7 +25,7 @@
 21. [x] Spin Wheel App
 22. [x] Gradient Generator
 23. [x] Guess The Word Game
-24. Simon Game
+24. [x] Simon Game
 25. Apex Charts
 26. Recipe Guide App
 27. Minesweeper Game
