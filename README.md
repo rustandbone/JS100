@@ -27,7 +27,7 @@
 23. [x] Guess The Word Game
 24. [x] Simon Game
 25. [x] Apex Charts
-26. Recipe Guide App
+26. [x] Recipe Guide App
 27. Minesweeper Game
 28. Github Api
 29. Breakout Game
