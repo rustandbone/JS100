@@ -28,7 +28,7 @@
 24. [x] Simon Game
 25. [x] Apex Charts
 26. [x] Recipe Guide App
-27. Minesweeper Game
+27. [x] Minesweeper Game
 28. Github Api
 29. Breakout Game
 30. Music Player App
