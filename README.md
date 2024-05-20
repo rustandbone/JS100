@@ -31,7 +31,7 @@
 27. [x] Minesweeper Game
 28. [x] Github Api
 29. [x] Breakout Game
-30. Music Player App
+30. [x] Music Player App
 31. ChatGPT Bot
 32. Google Maps Api
 33. Pong Game
