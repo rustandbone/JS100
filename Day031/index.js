@@ -33,7 +33,7 @@ function sendMessage() {
     method: 'POST',
     headers: {
       'content-type': 'application/json',
-      'X-RapidAPI-Key': 'Your Api Key',
+      'X-RapidAPI-Key': `${key}`,
       'X-RapidAPI-Host': 'openai-api-gpt-3-5-turbo.p.rapidapi.com',
     },
     body: `{"model": "gemma-7b", "messages":[{"role": "user", "content": "${message}"}]}`,
