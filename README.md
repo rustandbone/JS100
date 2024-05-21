@@ -32,7 +32,7 @@
 28. [x] Github Api
 29. [x] Breakout Game
 30. [x] Music Player App
-31. ChatGPT Bot
+31. [x] ChatGPT Bot
 32. Google Maps Api
 33. Pong Game
 34. Chrome Color Picker Extension
